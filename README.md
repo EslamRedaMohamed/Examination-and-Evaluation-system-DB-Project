@@ -9,6 +9,9 @@ This project aims to develop an electronic system for examination and evaluation
 - **Student Access:** Students log in to answer exams, evaluate courses, and professors.
 - **Automatic Results Calculation:** The system calculates exam results automatically.
 
+## Technology Used
+- **Database Management System:** MySQL
+
 ## Deliverables
 1. **Conceptual Data Model**
    - Entity-Relationship Diagram (ERD)
